@@ -37,7 +37,7 @@ const Map = (() => {
                 </table></center>
             }
 
-      
+
 
         </>
     )

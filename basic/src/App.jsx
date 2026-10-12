@@ -1,11 +1,13 @@
-import { Map } from "./Map_And_Filter";
+// import { Map } from "./Map_And_Filter";
+import { Nav } from "./Navbar";
 
 
 function App(){
   return(
     <>
 
-    <Map/>
+    {/* <Map/> */}
+    <Nav/>
     </>
   )
 }
